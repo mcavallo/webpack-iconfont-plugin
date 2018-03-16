@@ -15,12 +15,6 @@
     "webpack",
     "plugin"
   ],
-  "babel": {
-    "presets": [
-      "es2015",
-      "latest"
-    ]
-  },
   "jest": {
     "moduleDirectories": [
       "node_modules"

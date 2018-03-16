@@ -1,4 +1,4 @@
-Fork of https://www.npmjs.com/package/webpack-iconfont-plugin
+Fork of https://www.npmjs.com/package/webpack-iconfont-plugin with CommonJS modules and a few adaptations to fit my needs
 
 ---
 

@@ -2,7 +2,7 @@ const nodify = require('nodeify');
 const fs = require('fs-extra');
 const globParent = require('glob-parent');
 const path = require('path');
-const { iconfont } = require('./generator')
+const iconfont = require('./generator');
 const hasha = require('hasha');
 
 function IconfontPlugin(options = {}) {

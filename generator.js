@@ -117,7 +117,7 @@ function svgIcons2svgFontFn(glyphsData, options) {
   });
 }
 
-module.export = function(initialOptions) {
+module.exports = function(initialOptions) {
   let options = Object.assign({}, {
       ascent: undefined,
       centerHorizontally: false,
